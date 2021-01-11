@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-black-beta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12165145036?si=5YUK8ImaTHCR8NiBP7MMJQ)
+[<img src="https://novatorem-black-beta.vercel.app/api/spotify.py" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/12165145036?si=5YUK8ImaTHCR8NiBP7MMJQ)
 
 ### Connect with me:
 
