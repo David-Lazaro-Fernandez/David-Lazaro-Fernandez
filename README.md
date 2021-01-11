@@ -2,7 +2,7 @@
 
 ## I'm a CS student, gamer, Developer, and a guy who loves to empower others to use the technology to solve problems!!
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="500" height="500" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="400" height="400" />
 
 - 🔭 I'm currently president of a student organization in my campus called [Bisontech(https://www.facebook.com/bisontech1)]
 - 🌱 I’m currently React, Js and MongoDB ⚛
