@@ -5,16 +5,17 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="400" height="400" />
 
 - 🔭 I'm currently president of a student organization in my campus called [Bisontech]
-- 🌱 I’m currently React, Js and MongoDB ⚛
+- 👨‍💻 I’m currently learning React, Js and MongoDB ⚛
 - 👩‍🏫 I’m looking to collaborate with other content creators
+- 🆙 Leveling up my softskills 🆙
 - 🤠 Fun fact: I love to cook and right now I'm trying to learn how to cook japanese food 🍜
 
 ### 2021 Objectives
 
 - Become a GitHub Campus Expert 💪
-- Become a Microsoft Student Ambassador 🐱‍💻
+- ✅ Become a Microsoft Student Ambassador 🐱‍💻
 - Contribute more to  Open Source Projects 🐧
-- Front End here I go 🐱‍👓
+- ✅ Front End here I go 🐱‍👓
 
 ### Now Listening To: 🎧
 
