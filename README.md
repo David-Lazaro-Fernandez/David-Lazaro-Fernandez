@@ -12,7 +12,7 @@
 
 ### 2021 Objectives
 
-- Become a GitHub Campus Expert 💪
+- ✅ Become a GitHub Campus Expert 💪
 - ✅ Become a Microsoft Student Ambassador 🐱‍💻
 - Contribute more to  Open Source Projects 🐧
 - ✅ Front End here I go 🐱‍👓
