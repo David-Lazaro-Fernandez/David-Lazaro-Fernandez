@@ -14,7 +14,7 @@
 
 - ✅ Become a GitHub Campus Expert 💪
 - ✅ Become a Microsoft Student Ambassador 🐱‍💻
-- Contribute more to  Open Source Projects 🐧
+- ✅ Contribute more to  Open Source Projects 🐧
 - ✅ Front End here I go 🐱‍👓
 
 ### Now Listening To: 🎧
