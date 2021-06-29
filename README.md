@@ -7,15 +7,15 @@
 
 ![Frame 2](https://user-images.githubusercontent.com/57787993/123832647-2d9a9c00-d8cb-11eb-92cf-a2193b41bf0d.png)
 ---
-<img alt="2021 Objectives" src="https://user-images.githubusercontent.com/57787993/123832649-2e333280-d8cb-11eb-856b-6fe61d10d029.png" align="left" width="430px" />
-<img alt="2021 New Objectives" src="https://user-images.githubusercontent.com/57787993/123832652-2e333280-d8cb-11eb-9537-6305a92623a8.png" width="430px"  align="right" />
+<img alt="2021 Objectives" src="https://user-images.githubusercontent.com/57787993/123832649-2e333280-d8cb-11eb-856b-6fe61d10d029.png" align="left" width="400px" />
+<img alt="2021 New Objectives" src="https://user-images.githubusercontent.com/57787993/123832652-2e333280-d8cb-11eb-9537-6305a92623a8.png" width="400px"  align="right" />
 
 <br /><br /><br /><br /><br /><br /><br />
 
 
 ---
 ### Now Listening To: 🎧
-[<img src="https://novatorem-black-beta.vercel.app/api/spotify.py"  alt="Spotify Playing" width="900" height="100"  />](https://open.spotify.com/user/12165145036?si=5YUK8ImaTHCR8NiBP7MMJQ)
+[<img src="https://novatorem-black-beta.vercel.app/api/spotify.py"  alt="Spotify Playing" width="500"  />](https://open.spotify.com/user/12165145036?si=5YUK8ImaTHCR8NiBP7MMJQ)
 ---
 ---
 ### Social Media:
