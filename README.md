@@ -1,26 +1,23 @@
-### Hi there, I'm David 😋. You can call me Dave or Davod 👋
 
-## I'm a CS student, gamer, Developer, and a guy who loves to empower others to use the technology to solve problems!!
+![Frame 1 (3)](https://user-images.githubusercontent.com/57787993/123819361-55840280-d8bf-11eb-9e88-25788d77d7c2.png)
+---
+---
+### I'm a CS student, gamer, Developer, and a guy who loves to empower others to use the technology to solve problems! :shipit:
+---
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="400" height="400" />
+![Frame 2](https://user-images.githubusercontent.com/57787993/123832647-2d9a9c00-d8cb-11eb-92cf-a2193b41bf0d.png)
+---
+<img alt="2021 Objectives" src="https://user-images.githubusercontent.com/57787993/123832649-2e333280-d8cb-11eb-856b-6fe61d10d029.png" align="left" width="450px" />
+<img alt="2021 New Objectives" src="https://user-images.githubusercontent.com/57787993/123832652-2e333280-d8cb-11eb-9537-6305a92623a8.png" width="450px"  align="right" />
 
-- 🔭 I'm currently president of a student organization in my campus called [Bisontech]
-- 👨‍💻 I’m currently learning React, Js and MongoDB ⚛
-- 👩‍🏫 I’m looking to collaborate with other content creators
-- 🆙 Leveling up my softskills 🆙
-- 🤠 Fun fact: I love to cook and right now I'm trying to learn how to cook japanese food 🍜
+<br /><br /><br /><br /><br /><br /><br />
 
-### 2021 Objectives
 
-- ✅ Become a GitHub Campus Expert 💪
-- ✅ Become a Microsoft Student Ambassador 🐱‍💻
-- ✅ Contribute more to  Open Source Projects 🐧
-- ✅ Front End here I go 🐱‍👓
-
+---
 ### Now Listening To: 🎧
-
-[<img src="https://novatorem-black-beta.vercel.app/api/spotify.py" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/12165145036?si=5YUK8ImaTHCR8NiBP7MMJQ)
-
+[<img src="https://novatorem-black-beta.vercel.app/api/spotify.py"  alt="Spotify Playing" width="450"  />](https://open.spotify.com/user/12165145036?si=5YUK8ImaTHCR8NiBP7MMJQ)
+---
+---
 ### Social Media:
 
 <a href="https://www.instagram.com/davidlazarof/">
@@ -28,7 +25,10 @@
 </a>
 
 <a href="https://twitter.com/DavidLazaroFern">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img ![Frame 4](https://user-images.githubusercontent.com/57787993/123832563-152a8180-d8cb-11eb-9fe3-17d6e82e32c9.png)
+![Frame 2](https://user-images.githubusercontent.com/57787993/123832564-15c31800-d8cb-11eb-9df7-3d9969068e5a.png)
+![Frame 3](https://user-images.githubusercontent.com/57787993/123832567-165bae80-d8cb-11eb-95cc-f55ec47d942a.png)
+src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
 <a href="https://discord.gg/2429hZb">
@@ -55,6 +55,9 @@
 <img align="left" alt="IntelliJ IDEA" width="50px" src="https://static.javatpoint.com/intellij-idea/images/intellij-idea-tutorial.png"/>
 <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
 <img align="left" alt="GitKraken" width="50px" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png"/>
+<img align="left" alt="Angular" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
+<img align="left" alt="Typescript" width="50px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
+<img align="left" alt="Typescript" width="50px" src="https://pic1.zhimg.com/v2-d2b1e19091a3530dfb8bec06b5a926dc_ipico.jpg"/>
 
 <br />
 <br />
@@ -68,7 +71,18 @@
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
+
+
+
 [Bisontech]: https://www.facebook.com/bisontech1
 [twitter]: https://twitter.com/DavidLazaroFern
 [instagram]: https://www.instagram.com/davidlazarof/
 [linkedin]: https://www.linkedin.com/in/david-lazaro-135175168/
+
+
+.markdown-body {
+  --md-code-background: #e3dcef;
+  --md-code-text: #4a2b7b;
+  --md-code-tabs: #c6b8dd;
+  --md-code-radius: 4px;
+}
