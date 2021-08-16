@@ -79,10 +79,3 @@ src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitte
 [instagram]: https://www.instagram.com/davidlazarof/
 [linkedin]: https://www.linkedin.com/in/david-lazaro-135175168/
 
-
-.markdown-body {
-  --md-code-background: #e3dcef;
-  --md-code-text: #4a2b7b;
-  --md-code-tabs: #c6b8dd;
-  --md-code-radius: 4px;
-}
