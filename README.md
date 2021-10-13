@@ -1,17 +1,4 @@
-
-![Frame 1 (3)](https://user-images.githubusercontent.com/57787993/123819361-55840280-d8bf-11eb-9e88-25788d77d7c2.png)
----
----
-### I'm a CS student, gamer, Developer, and a guy who loves to empower others to use the technology to solve problems! :shipit:
----
-
-![Frame 2](https://user-images.githubusercontent.com/57787993/123832647-2d9a9c00-d8cb-11eb-92cf-a2193b41bf0d.png)
----
-<img alt="2021 Objectives" src="https://user-images.githubusercontent.com/57787993/123832649-2e333280-d8cb-11eb-856b-6fe61d10d029.png" align="left" width="400px" />
-<img alt="2021 New Objectives" src="https://user-images.githubusercontent.com/57787993/123832652-2e333280-d8cb-11eb-9537-6305a92623a8.png" width="400px"  align="right" />
-
-<br /><br /><br /><br /><br /><br /><br />
-
+![Frame 3](https://user-images.githubusercontent.com/57787993/137216763-da4f3b6b-0f29-47bb-8da7-ae1a41a974b7.png)
 
 ---
 ### Now Listening To: 🎧
